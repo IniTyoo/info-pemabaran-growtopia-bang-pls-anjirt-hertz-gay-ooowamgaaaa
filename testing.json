@@ -1,0 +1,20 @@
+[
+  {
+    "name": "XEOPEA",
+    "world": "TRD",
+    "gems": 123,
+    "status": "online"
+  },
+  {
+    "name": "BOT-1",
+    "world": "ABC",
+    "gems": 987,
+    "status": "offline"
+  },
+  {
+    "name": "BOT-2",
+    "world": "XYZ",
+    "gems": 456,
+    "status": "online"
+  }
+]
